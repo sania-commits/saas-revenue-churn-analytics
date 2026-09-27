@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv-5/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+*.env
+
+# Power BI temporary/recovery files
+*-recovered.pbix
+*.tmp
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*:memory:.ses

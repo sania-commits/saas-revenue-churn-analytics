@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,target_segment
+P01,Starter,29.0,Small Business
+P02,Professional,79.0,SMB
+P03,Business,149.0,Mid-Market
+P04,Enterprise,399.0,Enterprise
