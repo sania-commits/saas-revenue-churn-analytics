@@ -7,7 +7,15 @@ An end-to-end Power BI analytics project designed to analyze SaaS recurring reve
 This project transforms subscription and monthly revenue data into an interactive SaaS analytics solution for monitoring business growth and customer retention.
 
 The report contains two analytical views:
+## Dashboard Preview
 
+### Executive Overview
+
+![Executive Overview](docs/images/executive-overview.png)
+
+### Monthly Revenue & Churn Analysis
+
+![Monthly Revenue & Churn Analysis](docs/images/monthly-analysis.png)
 ### Executive Overview
 Provides a high-level view of SaaS business performance using:
 
